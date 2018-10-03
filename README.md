@@ -26,7 +26,7 @@ var email = (type, defectedService, error, cause)<br>
 >Checkers:- It contains list of health checkers up right now<br>
 >Map:- It contains the maping between sites and cloud services.<br>
 
-## __LOADER.JS , pingConfig.json , rssConfig.json:-__
+### __LOADER.JS , pingConfig.json , rssConfig.json:-__
 >The 2 json files contain the state for rssPoll and ping_health functions. The Loader.js generates or updates these 2 files on initial setup or changes in main config file.
 
 
